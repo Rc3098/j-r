@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="2" contextid="7" version="2022041900">
+  <blockname>course_summary</blockname>
+  <parentcontextid>2</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>site-index</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>-3</defaultweight>
+  <configdata></configdata>
+  <timecreated>1500137813</timecreated>
+  <timemodified>1500137811</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

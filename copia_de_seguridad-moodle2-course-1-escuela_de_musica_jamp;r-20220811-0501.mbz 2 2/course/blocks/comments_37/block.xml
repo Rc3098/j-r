@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="37" contextid="92" version="2022041900">
+  <blockname>comments</blockname>
+  <parentcontextid>2</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>site-index</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>fp-c</defaultregion>
+  <defaultweight>1</defaultweight>
+  <configdata></configdata>
+  <timecreated>1660192644</timecreated>
+  <timemodified>1660192655</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

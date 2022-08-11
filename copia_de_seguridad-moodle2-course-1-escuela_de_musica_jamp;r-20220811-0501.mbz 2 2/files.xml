@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="28">
+    <contenthash>ea8f3bbd3e74b1e6e9c7971669f176772dc58d52</contenthash>
+    <contextid>2</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>18</itemid>
+    <filepath>/</filepath>
+    <filename>moodle-mosaic.png</filename>
+    <userid>2</userid>
+    <filesize>616706</filesize>
+    <mimetype>image/png</mimetype>
+    <status>0</status>
+    <timecreated>1405380212</timecreated>
+    <timemodified>1405380253</timemodified>
+    <source>moodle-mosaic.png</source>
+    <author>- Admin -</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="29">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>2</contextid>
+    <component>course</component>
+    <filearea>section</filearea>
+    <itemid>18</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>2</userid>
+    <filesize>0</filesize>
+    <mimetype>document/unknown</mimetype>
+    <status>0</status>
+    <timecreated>1405380212</timecreated>
+    <timemodified>1660173705</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

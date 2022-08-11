@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section id="18">
+  <number>1</number>
+  <name>Bienvenidos</name>
+  <summary>Cursos Disponibles:&lt;br&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <sequence>14</sequence>
+  <visible>1</visible>
+  <availabilityjson>{"op":"&amp;","c":[],"showc":[]}</availabilityjson>
+  <timemodified>1660173744</timemodified>
+</section>

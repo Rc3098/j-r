@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="36" contextid="91" version="2022041900">
+  <blockname>recent_activity</blockname>
+  <parentcontextid>2</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>site-index</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>fp-b</defaultregion>
+  <defaultweight>-2</defaultweight>
+  <configdata></configdata>
+  <timecreated>1660192630</timecreated>
+  <timemodified>1660193122</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

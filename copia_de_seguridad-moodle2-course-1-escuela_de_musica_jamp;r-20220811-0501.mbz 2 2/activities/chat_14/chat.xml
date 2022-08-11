@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="14" modulename="chat" contextid="54">
+  <chat id="1">
+    <name>Consulta con tus compañeros</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Este chat es solo para uso académico&lt;/strong&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <keepdays>0</keepdays>
+    <studentlogs>0</studentlogs>
+    <chattime>1660173720</chattime>
+    <schedule>0</schedule>
+    <timemodified>1660173822</timemodified>
+    <messages>
+      <message id="1">
+        <userid>2</userid>
+        <groupid>0</groupid>
+        <system>1</system>
+        <message_text>enter</message_text>
+        <timestamp>1660173829</timestamp>
+      </message>
+      <message id="2">
+        <userid>2</userid>
+        <groupid>0</groupid>
+        <system>1</system>
+        <message_text>exit</message_text>
+        <timestamp>1660182465</timestamp>
+      </message>
+      <message id="3">
+        <userid>2</userid>
+        <groupid>0</groupid>
+        <system>1</system>
+        <message_text>enter</message_text>
+        <timestamp>1660182467</timestamp>
+      </message>
+    </messages>
+  </chat>
+</activity>

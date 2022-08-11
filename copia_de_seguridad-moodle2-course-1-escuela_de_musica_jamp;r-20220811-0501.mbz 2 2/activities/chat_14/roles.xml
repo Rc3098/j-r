@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles>
+  <role_overrides>
+    <override id="1529">
+      <roleid>5</roleid>
+      <capability>atto/recordrtc:recordaudio</capability>
+      <permission>1</permission>
+      <timemodified>1660182578</timemodified>
+      <modifierid>2</modifierid>
+    </override>
+    <override id="1530">
+      <roleid>5</roleid>
+      <capability>atto/recordrtc:recordvideo</capability>
+      <permission>1</permission>
+      <timemodified>1660182578</timemodified>
+      <modifierid>2</modifierid>
+    </override>
+    <override id="1531">
+      <roleid>5</roleid>
+      <capability>mod/chat:chat</capability>
+      <permission>1</permission>
+      <timemodified>1660182578</timemodified>
+      <modifierid>2</modifierid>
+    </override>
+    <override id="1532">
+      <roleid>5</roleid>
+      <capability>mod/chat:deletelog</capability>
+      <permission>1</permission>
+      <timemodified>1660182578</timemodified>
+      <modifierid>2</modifierid>
+    </override>
+    <override id="1533">
+      <roleid>5</roleid>
+      <capability>mod/chat:exportsession</capability>
+      <permission>1</permission>
+      <timemodified>1660182578</timemodified>
+      <modifierid>2</modifierid>
+    </override>
+    <override id="1534">
+      <roleid>5</roleid>
+      <capability>mod/chat:readlog</capability>
+      <permission>1</permission>
+      <timemodified>1660182578</timemodified>
+      <modifierid>2</modifierid>
+    </override>
+    <override id="1535">
+      <roleid>5</roleid>
+      <capability>mod/chat:view</capability>
+      <permission>1</permission>
+      <timemodified>1660182578</timemodified>
+      <modifierid>2</modifierid>
+    </override>
+  </role_overrides>
+  <role_assignments>
+  </role_assignments>
+</roles>

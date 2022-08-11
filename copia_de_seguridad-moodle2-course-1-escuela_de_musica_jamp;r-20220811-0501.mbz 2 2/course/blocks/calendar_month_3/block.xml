@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="3" contextid="8" version="2022041901">
+  <blockname>calendar_month</blockname>
+  <parentcontextid>2</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>site-index</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>-1</defaultweight>
+  <configdata></configdata>
+  <timecreated>1500137813</timecreated>
+  <timemodified>1660192615</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

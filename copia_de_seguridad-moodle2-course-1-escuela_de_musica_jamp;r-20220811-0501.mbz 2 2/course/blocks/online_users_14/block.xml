@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="14" contextid="34" version="2022041900">
+  <blockname>online_users</blockname>
+  <parentcontextid>2</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>site-index</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>fp-a</defaultregion>
+  <defaultweight>0</defaultweight>
+  <configdata></configdata>
+  <timecreated>1500137813</timecreated>
+  <timemodified>1660193130</timemodified>
+  <block_positions>
+  </block_positions>
+</block>

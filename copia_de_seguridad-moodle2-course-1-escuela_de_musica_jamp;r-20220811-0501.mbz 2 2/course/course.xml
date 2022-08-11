@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="1" contextid="2">
+  <shortname>Escuela de musica J&amp;R</shortname>
+  <fullname>Cursos básicos</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;h2 style="font-size: large;"&gt;Bienvenidos&lt;/h2&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</summary>
+  <summaryformat>0</summaryformat>
+  <format>site</format>
+  <showgrades>1</showgrades>
+  <newsitems>3</newsitems>
+  <startdate>0</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1405375287</timecreated>
+  <timemodified>1660177335</timemodified>
+  <requested>0</requested>
+  <showactivitydates>0</showactivitydates>
+  <showcompletionconditions>$@NULL@$</showcompletionconditions>
+  <enablecompletion>0</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <category id="">
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+  <courseformatoptions>
+    <courseformatoption>
+      <format>site</format>
+      <sectionid>0</sectionid>
+      <name>numsections</name>
+      <value>1</value>
+    </courseformatoption>
+  </courseformatoptions>
+</course>
